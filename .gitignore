@@ -1,1 +1,3 @@
 config_hw.py
+__pycache__
+.ipynb_checkpoints
